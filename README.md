@@ -2,6 +2,8 @@
 
 Collection of skybox templates and probes.
 
+Demo link: <https://skyboxes.hashbase.io/>
+
 <a href="https://i.imgur.com/oXYQDRc.jpg">
   <img alt="bluesky" target="_blank" src="https://i.imgur.com/oXYQDRc.jpg" height="190" width="32%">
 </a>
